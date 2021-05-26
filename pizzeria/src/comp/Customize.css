@@ -1,0 +1,44 @@
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid ;
+}
+
+tr{
+   
+    border: 1px solid ;
+}
+td{
+  
+    border: 1px solid;
+    
+}
+/* .table td {
+text-align: center;
+}  */
+
+.center{
+    text-align: center;
+    vertical-align: auto;
+}
+
+.tablestyle{
+    width: 500px;
+}
+
+.build-your-pizza-btn{
+      color: orange;
+      background-color: black;
+  }
+.c-text{
+    color: blue;
+  }
+
+  .copyright{
+    color: orange;
+    /* margin-top: 20px; */
+  }
+
+.build-your-pizza-btn:hover{
+    color: orange;
+}

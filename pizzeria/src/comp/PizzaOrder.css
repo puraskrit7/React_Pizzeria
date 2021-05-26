@@ -1,0 +1,16 @@
+#c-style{
+   padding-top: 10px;
+    border: 1px solid grey;
+    height: 200px; 
+    margin-top: 10px;
+    display: table;
+    
+}
+  .card:hover {
+    box-shadow: 0 5px 10px grey;
+  }
+  
+  .copyright{
+    color: orange;
+    /* margin-top: 20px; */
+  }
